@@ -1,0 +1,9 @@
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Курсова Робота\Library\LibraryLibrary\bin\Release\netcoreapp3.1\LibraryLibrary.deps.json
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Курсова Робота\Library\LibraryLibrary\bin\Release\netcoreapp3.1\LibraryLibrary.dll
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Курсова Робота\Library\LibraryLibrary\bin\Release\netcoreapp3.1\LibraryLibrary.pdb
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Курсова Робота\Library\LibraryLibrary\obj\Release\netcoreapp3.1\LibraryLibrary.csprojAssemblyReference.cache
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Курсова Робота\Library\LibraryLibrary\obj\Release\netcoreapp3.1\LibraryLibrary.AssemblyInfoInputs.cache
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Курсова Робота\Library\LibraryLibrary\obj\Release\netcoreapp3.1\LibraryLibrary.AssemblyInfo.cs
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Курсова Робота\Library\LibraryLibrary\obj\Release\netcoreapp3.1\LibraryLibrary.csproj.CoreCompileInputs.cache
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Курсова Робота\Library\LibraryLibrary\obj\Release\netcoreapp3.1\LibraryLibrary.dll
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Курсова Робота\Library\LibraryLibrary\obj\Release\netcoreapp3.1\LibraryLibrary.pdb
